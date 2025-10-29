@@ -1,3 +1,0 @@
-﻿(function () {
-    ibabs.core.initialize();
-})();
