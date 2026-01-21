@@ -1,0 +1,205 @@
+
+
+<!DOCTYPE html>
+
+<html lang=da>
+    <head>
+        <meta name="viewport" content="height=device-height, initial-scale=1.0">
+        <title>Forside - dagsordener og referater</title>
+        <link href="/dist/css/aarhus.css" rel="stylesheet" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <script src="/dist/js/common.js"></script>
+        <script src="/dist/js/shared.677d49cb874709442eff.js"></script>
+        
+
+<script>
+    window.localizationKeys = {
+        text: {"Meeting_Copy_Link":"Kopier link","Home-Search_Results_Not_Yet_Published":"Dagsordener og referater, der matcher dine søgekriterier, er ikke publicerede endnu. Prøv igen senere.","Localization_js_Download_As_Pdf_AriaLabel":"Hent punkt @@itemnumber som PDF","ErrorMessage_ContactSupport":"Kontakt eventuelt supporten for mere hjælp","Localization_js_Sending_Failed":"Der skete desværre en fejl ved afsendelse, prøv venligst senere...","Localization_js_View_All":"Se alle","AccessibilityLink":"Tilgængelighedserklæring (WAS)","Subscribe-Subheading":"Sådan abonnerer du på udvalg:","Home-Search_Field_Area_Label":"Søg efter dagsordener og referater fra politiske udvalg","Meeting_Tip_A_Friend_Checkbox_Here":"Du skal sætte et flueben her","Subscribe-Add_Committees":"Tilmeld udvalg:","Localization_js_Link_To_Item_Pdf":"Åben som PDF","Home-Search_Field_Description":"Søg i dagsordener og referater","Home-Search":"Søg","PDF-Title":"Dokumentvisning","Subscribe-Deselect_Committees":"Fravælg de udvalg, som du ikke længere ønsker at abonnere på.","ErrorMessage_ServiceError":" Der er i øjeblikket problemer med servicen, prøv igen senere.","Localization_js_Non":"INGEN","Subscribe-Your_Email_Placeholder":"Indtast din e-mail","Meeting_Menu_Item":"Menu til punktet","Home-Search_Field_Placeholder_Disabled":"Søg efter...(kommer snart)","Meeting_Closed_Item":"Lukket punkt","Home-An_Error_Occured_Description":"Der opstod desværre en fejl - vi arbejder på at få løst problemet hurtigst muligt.","Additional_Audio_Files":"Yderligere lydfiler","Localization_js_Meeting_Minutes":"Referat","ErrorMessage_NoAccess":" Der kunne ikke opnåes tilstrækkelig adgang til det ønskede element.","Home-An_Error_Occured":"Der opstod en fejl","Search_WebsiteId_Invalid":"Ugyldig websiteId header","Localization_js_Supplementary_Agenda":"Tillæg","Global_An_Error_Occured_Description":"Der opstod desværre en fejl - vi arbejder på at få løst problemet hurtigst muligt.","Home-Subscribe_To_Committee":"Abonnér på dagsordener og referater","Localization_js_Reset":"Nulstil","Subscribe_Committee_Chosen":"udvalg er valgt","Meeting_Message_Not_Sent":"Beskeden blev ikke sendt på grund af","Meeting-Meeting_Date":"Mødedato","Meeting-Meeting_Info":"Mødeinformation","Meeting-Download_Agenda":"Hent hele dagsordenen","User_Email_Already_Exists":"Email er brugt i forvejen","Subscribe_At_Least_One_Committee":"Du skal vælges mindst ét udvalg","Subscribe-Receive_Details":"Du får tilsendt et link på din mail, som du skal klikke på for at godkende dit abonnement.\r\nHerefter vil du modtage en mail, når der udgives nyt i de udvalg, du vælger at abonnere på.","Localization_js_At_Least_One_Criteria":"Der skal angives mindst ét søgefilter","Meeting_Copy_Link_Description":"Kopier linket i nedenstående tekstboks med ctrl+c og indsæt link hvor du har lyst","Meeting_Tip_A_Friend_Sender_Name_Validation":"Dit navn skal udfyldes","Home-Committee_Dropdown_Area_Label":"Vælg udvalg","Localization_js_Choose_Committees":"Vælg udvalg","Home-Search_Field_Area_Label_Disabled":"Search in agendas and meeting minutes","Subscribe-Remove_Committees":"Afmeld udvalg:","Localization_js_Pdf_Previous_Page_Aria":"Skift til forrige side i PDF","Meeting_Participation_Cancelled":"Afbud","Meeting_Recipient_Email_Placeholder":"modtager@eksempel.dk","Logo_Alt_Text":"logo","ErrorMessage_MoreThanOneElement":" Det ønskede element kunne ikke hentes. Dette kan skyldes, at det ikke findes mere.","Localization_js_LatestMeetings":"Seneste dagsordener og referater","Meeting_Info":"Info","Global_test":"test","Global_Show":"Vis","Meeting-Meeting_Place":"Mødested","Localization_js_Agenda":"Dagsorden","Global-Ok_Capital_Letters":"OK","Global-Save":"Gem","Global_den":"d.","Subscribe_Choose_Committee":"Vælg et udvalg","Meeting_Tip_A_Friend_Email_Validation":"Modtager email skal udfyldes","Meeting_Tip_A_Friend":"Tip en ven","Common_close":"Luk","Home_Date":"År","Home-Title":"Forside - dagsordener og referater","ErrorMessage_ServiceUnAvailable":"Der er i øjeblikket problemer med servicen, prøv igen senere.","Meeting_Tip_A_Friend_Send":"Send","Subscribe-Your_Email":"Din e-mail","Home-Search_Results":"Resultater","Meeting_Copy_Link_Field_Description":"Felt med link til dagsorden, som kan kopieres og indsættes andre steder","Common_MunicipalityLogo":"Logo","CommitteeId_Invalid":"Invalid committeeId","Meeting_Title_Capital":"Titel","To_And_From_More_Than_31_Days_Apart":"To and from dates cannot be more than 31 days apart","Subscribe_Acticvation_Already_Completed":"Dit abonnement er allerede aktiveret.","Global-Back_To_Front_Page":"Tilbage til forsiden","Localization_js_Non_Published":"INGEN PUBLICEREDE","Localization_js_Appendix":"Bilag","Localization_js_Choose_Committees_Submenu_Choice_Aria":"under ","Home-An_Error_Occured_More_Info":"Supplerende information:","Localization_js_View_All_Participants":"Se alle deltagere","Meeting_Tip_A_Friend_Message":"Besked","Global_An_Error_Occured_More_Info":"Mere info","Subscribe-Select_Committees":"Vælg de udvalg, som du ønsker at abonnere på.","Meeting-MeetingPatisipants":"Mødedeltagere","Meeting_Tip_A_Friend_Sender_Email_Validation":"Afsender email skal udfyldes","Subscribe_Activated":"Dit abonnement er nu aktiveret.","Modal-Close_Text_Aria":"Luk dialog","Meeting_Tip_A_Friend_Sender_Email_Description":"Mailadresse på afsender af tip","Localization_js_Reset_Chosen_Committee_Aria":"nulstil dropdown","Meeting_Tip_A_Friend_Email":"Modtager e-mail","Subscribe-Title":"Abonnér på dagsordener og referater","Meeting_Copy_Link_AriaLabel":"Kopier link for punkt @@itemnumber","Global_Eg":"F.eks.","Global_Of":"af","Localization_js_Pdf_Picture_Presentation_Aria":"Billedrepræsentation af PDF","Pdf_Item_Filename":"dagsordenspunkt","Meeting_TableOfContent":"Indholdsfortegnelse","Localization_js_Choose_Committees_Submenu_Aria":"Vælg udvalg","Common_And":"og","Meeting_Tip_A_Friend_Sender_Name":"Dit navn","Localization_js_Sending_Please_Wait":"Sender, vent venligst...","Global-Committee":"Udvalg","Meeting_Full_DateTime_Format":"dddd [den] Do MMMM YYYY [kl.] HH.mm","Meeting_DateTime_Format":"Do MMMM YYYY [kl.] HH.mm","Subscribe-Heading":"Abonnér på dagsordener og referater fra @@orgName","Localization_js_Pdf_Next_Page_Aria":"Skift til næste side i PDF","Home-Search_Field_Placeholder":"Indtast søgeord","Global_Cancel":"Annuller","Meeting_Content_In_Appendixes":"Teksten der er søgt på, findes kun i bilag","Global_Go_To_Content":"Gå til indhold","Meeting_Absent_Attendees":"Fraværende","Localization_js_TimeShothand":"kl.","Global-Close":"Luk","Localization_js_Download_As_Pdf":"Hent som PDF","Home-Agendas_And_Meeting_Minutes":"Dagsordener og referater","Meeting_Message_Sent":"Beskeden blev sendt","ErrorMessage_ErrorOccurred_part1":"Der opstod en fejl, da du forsøgte at kalde","Meeting-Description":"Information","Meeting_Absent":"Fravær","Home-List_Of_Committees":"Udvalg","Meeting_Tip_A_Friend_Message_Placeholder":"Skriv en besked som skal sendes sammen med linket til det valgte dagsordenspunkt.","Localization_js_Participants_And_More":" mere","Subscribe_Changes_Saved":"Ændringerne er gemt.","Meeting_Item_Capital":"Punkt","Localization_js_Pdf_Getting_Content_Aria":"Henter pdf-indhold","Home-Search_Date_Area_Label":"Dato vælger tekstfelt med format dag-måned-år","Subscribe-Choose_Committees_Add_All":"Vælg alle","Localization_js_did_not_participate_on_item":"deltog ikke på punkt","Global_An_Error_Occured":"Der opstod en fejl","Meeting_Tip_A_Friend_Sender_Email":"Din e-mail","Search_Keyword_Missing":"Søgeord skal udfyldes","Meeting_Get_Minutes":"Hent hele referatet","Meeting_For_The_Item":"Tilhørende punktet","Localization_js_Participants":" mødedeltagere","Subscribe-Remember_To_Save":"Husk at gemme dine ændringer.","Subscribe-Choose_Committees_Remove_All":"Fravælg alle","Spinner_Label":"Henter indhold","Subscribe_Acticvation_Failed":"Aktiveringen kunne ikke gennemføres.","Home-Search_Date_Placeholder":"Vælg år","Subscribe-Choose_Committees":"Vælg udvalg"},
+    };
+</script>
+
+        <script src="/dist/js/LocalizationUtil.b53b17d9a3a84e618ba6.js"></script>
+        
+    <script src="/dist/js/home.7c091b3dbae3244e7fd1.js"></script>
+
+    </head>
+    <body class="">
+        
+    <a href="#searchterm" class="go-to-content-button btn btn-link" type="button" >G&#229; til indhold</a>
+
+        <div class="container">
+            <input id="locale" name="locale" type="hidden" value="da" />
+            <input id="apiurl" name="apiurl" type="hidden" value="http://publication.firstagenda.com" />
+
+            
+
+    <nav class="navbar navbar-default" style="margin-top: 10px;">
+        <a href="/">
+            <img src="/Content/img/aarhus_logo.png" class="img-responsive" alt="logo" />
+        </a>
+    </nav>
+
+
+            
+
+<input id="paginglimit" name="paginglimit" type="hidden" value="20" />
+<input id="startindex" name="startindex" type="hidden" value="0" />
+
+
+
+    <div class="row informationHeader">
+        <div class="col-md-6">
+            <div class="title">
+                <h1 class="green" title="Dagsordener og referater">Dagsordener og referater</h1>
+                    <h2 class="black" id="politiskeUdvalgText" title="fra Aarhus Byråd og politiske udvalg">fra Aarhus Byråd og politiske udvalg</h2>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="description">
+                 Her finder du dagsordner og referater fra Aarhus Byråd, Magistraten og de politiske udvalg fra august 2013 og frem til i dag. <br><br>Har du spørgsmål, kan du skrive til <a href="mailto:post@ba.aarhus.dk?Subject=dagsordener.aarhus.dk" target="_top">post@ba.aarhus.dk</a><br/> 
+            </div>
+        </div>
+    </div>
+
+
+<div>
+    <div class="well">
+        <div class="row">
+            <div class="col-sm-5">
+                <form id="soeg">
+                    <div>
+                        <label for="searchterm">S&#248;g i dagsordener og referater</label>
+                            <input type="text" class="form-control" placeholder="Indtast s&#248;geord" aria-label="S&#248;g efter dagsordener og referater fra politiske udvalg" id="searchterm"/>
+                    </div>
+
+                    <div hidden="hidden">
+                        <input id="udvalg" type="text" value="" data-placeholder-text="V&#230;lg udvalg" data-placeholder-target="#udvalg-title"/>
+                        <input id="year" type="text" value="" data-placeholder-text="V&#230;lg &#229;r" data-placeholder-target="#year-title"/>
+                    </div>
+                    <div class="spinner center" aria-label="Henter indhold">
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+</div>
+
+                    <div class="search_filter_date">
+                        <label for="multidropdown">Udvalg</label>
+                        <div id="multidropdown" data-committeedropdown aria-label="V&#230;lg udvalg" class="search_filter multidropdown" style="width: 100%"></div>
+                    </div>
+                    <div class="search_filter_date">
+                        <label for="yearDropdown">&#197;r</label>
+                        <div id="yearDropdown" data-yeardropdown aria-label="Dato v&#230;lger tekstfelt med format dag-m&#229;ned-&#229;r" class="search_filter multidropdown" style="width: 100%"></div>
+                        <a tabindex="0" class="pull-right field-reset">Nulstil</a>
+                    </div>
+
+                    <div class="search_filter_button">
+                        <button type="submit" id="searchButton" class="btn btn-default btn-block" disabled="disabled">
+                            S&#248;g <span class="glyphicon glyphicon-search" style="margin-left: 5px;"></span>
+                        </button>
+                    </div>
+
+                    <div class="search_filter abonner-container">
+                        <button type="button" onclick="window.location.assign('/abonnent')" class="btn subscribe-button btn-block">
+                            Abonn&#233;r p&#229; dagsordener og referater <span class="glyphicon glyphicon-envelope"></span>
+                        </button>
+                    </div>
+                    <div class="aarhus-abonner-container">
+                        <button type="button" onclick="window.location.assign('https://www.aarhus.dk/demokrati/politik/dagsorden-og-referater/abonner-paa-dagsordner-og-referater/')" class="btn subscribe-button btn-block">
+                            Abonn&#233;r p&#229; dagsordener og referater <span class="glyphicon glyphicon-envelope"></span>
+                        </button>
+                    </div>
+
+                </form>
+            </div>
+            <div class="col-sm-7">
+                <div id="resultatplaceholder">
+
+                    <div class="spinner center" aria-label="Henter indhold">
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+</div>
+
+
+                    <div class="list-group search_result" id="resultater">
+                        <span id="antalResultaterSpan" class="list-group-item header">
+                            <span id="antalresultater"></span> <span id="antalresultaterPostfix">Resultater</span>
+                            <br/>
+                        </span>
+                        <div id="ingen-publicerede-besked">Dagsordener og referater, der matcher dine s&#248;gekriterier, er ikke publicerede endnu. Pr&#248;v igen senere.</div>
+                        <div id="resultaterplaceholder">
+                        </div>
+
+                        <div class="spinner center" aria-label="Henter indhold">
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+    <div class="spinner-blade"></div>
+</div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+        <a href="https://aarhus.dk/media/hm3f4jwu/tilgaengelighedsvurdering-first-agenda-publication.pdf" target="_blank">Tilg&#230;ngelighedserkl&#230;ring (WAS)</a>
+    <span class="agendamanagement-watermark">
+        <a href="https://firstagenda.com" target="_blank">powered by FirstAgenda Publication</a>
+    </span>
+</div>
+
+<div class="modal fade" id="errorDialog" tabindex="-1" role="dialog" aria-labelledby="errorDialogLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Luk dialog">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h4 class="modal-title" id="errorDialogLabel">Der opstod en fejl</h4>
+            </div>
+            <div class="modal-body">
+                Der opstod desv&#230;rre en fejl - vi arbejder p&#229; at f&#229; l&#248;st problemet hurtigst muligt.
+                <h6>
+                    <strong>Mere info</strong>
+                </h6>
+                <h6 id="supplerende-fejlbesked"></h6>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">OK</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+        </div>
+    </body>
+</html>
